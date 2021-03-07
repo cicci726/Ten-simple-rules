@@ -1,0 +1,4 @@
+CITATION file
+
+This file informs users how to cite and credit this project.
+Cite this project as f***ing awesome project and everybody will know what you mean
