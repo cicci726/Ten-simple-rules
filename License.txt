@@ -1,0 +1,4 @@
+LICENSE
+
+This is the licence file. It should contain the contents of an OSI-approved license, not
+just a reference to the license - just imagine...
